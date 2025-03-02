@@ -7,7 +7,7 @@ Significance of Hospitality domain
 The hospitality sector includes hotels, resorts, restaurants, and travel services, offering lodging, dining, and entertainment. Centered on exceptional customer experiences, service excellence, and operational efficiency, it drives guest satisfaction and revenue growth.
 
 Steps :
-1. Data Extraction
+1. Data Extraction, Transformation and Load
 2. Data Modelling
 3. Dax Measurements
 4. Effective data visualization Dashboard
