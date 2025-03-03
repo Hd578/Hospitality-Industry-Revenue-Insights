@@ -22,9 +22,12 @@ Realisation
 
 Outcome
 Assisted in tracking RevPAR, ADR, and occupancy all other key metrices trends on a weekly basis.
+
 Identified the opportunity for hotels to adopt dynamic pricing for weekends and weekdays.
+
 Improved tracking of the relationship between ADR and seasonality.
-Helped in doing 80-20 pareto analysis which ultimately incresed their profit.
+
+Helped in doing 80-20 pareto analysis which ultimately increased their profit.
 
    
 
