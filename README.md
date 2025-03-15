@@ -27,6 +27,7 @@ Daily Sellable Room Nights
 Realisation
 
 Outcome
+
 Assisted in tracking RevPAR, ADR, and occupancy all other key metrices trends on a weekly basis.
 
 Identified the opportunity for hotels to adopt dynamic pricing for weekends and weekdays.
