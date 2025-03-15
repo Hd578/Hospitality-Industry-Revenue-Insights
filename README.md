@@ -13,11 +13,17 @@ Steps :
 4. Effective data visualization Dashboard
 
 Important Key Matrices
+
 Revenue per Available Room(RevPar)
+
 Revenue
+
 Average Daily Rate(ADR)
+
 Occupancy %
+
 Daily Sellable Room Nights
+
 Realisation
 
 Outcome
